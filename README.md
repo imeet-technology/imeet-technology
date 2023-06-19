@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm iMeet Technology</h1>
+<h1 align="center">Hi 👋, iMeet Technology</h1>
 <h3 align="center">A Best Interenship Plateform for Coders 🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imeet-technology&label=Profile%20views&color=0e75b6&style=flat" alt="imeet-technology" /> </p>
